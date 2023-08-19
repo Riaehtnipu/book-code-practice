@@ -1,4 +1,4 @@
-package chapter_7_bitoperation;
+package chapter_6_bigdata;
 
 public class Problem_07_Islands {
 
